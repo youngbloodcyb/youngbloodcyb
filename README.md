@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 🤠
 
 <!--
 **youngbloodcyb/youngbloodcyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 [Check out my portfolio site](cameronyoungblood.com)
+
+🌱 I’m currently learning Java and Next.js
+
+🔭 I currently work on a marketing operations team doing web analytics, marketing optimization, and front-end web development
+
+📕 I'm also currently a graduate student in Analytics and Computer Science at Georgia Institute of Technology. I'm a big design, data, and computer nerd 🤓
+
