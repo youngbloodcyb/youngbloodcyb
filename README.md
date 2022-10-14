@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 
 📕 I'm also currently a graduate student in Analytics and Computer Science at Georgia Institute of Technology. I'm a big design, data, and computer nerd 🤓
 
-![youngbloodcyb's github stats](https://github-readme-stats.vercel.app/api?username=youngbloodcyb)
+![youngbloodcyb's github stats](https://github-readme-stats.vercel.app/api?username=youngbloodcyb&&theme=nightowl&show_icons=true)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youngbloodcyb&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
