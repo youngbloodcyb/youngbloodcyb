@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Java and Next.js
 
-🔭 I currently work on a marketing operations team doing web analytics, marketing optimization, and front-end web development
+🔭 I work on a marketing operations team doing web analytics, marketing optimization, and front-end web development
 
-📕 I'm also currently a graduate student in Analytics and Computer Science at Georgia Institute of Technology. I'm a big design, data, and computer nerd 🤓
+📕 Currently a graduate student in Analytics and Computer Science at Georgia Institute of Technology
+
+🤓 Big design, data, and computer nerd
 
 ![youngbloodcyb's github stats](https://github-readme-stats.vercel.app/api?username=youngbloodcyb&&theme=nightowl&show_icons=true)
 
