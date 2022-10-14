@@ -1,4 +1,4 @@
-### 👋 🤠
+# 👋 🤠
 
 <!--
 **youngbloodcyb/youngbloodcyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 [Check out my portfolio site](cameronyoungblood.com)
+📫 [Check out my portfolio site](https://www.cameronyoungblood.com)
 
 🌱 I’m currently learning Java and Next.js
 
 🔭 I currently work on a marketing operations team doing web analytics, marketing optimization, and front-end web development
 
 📕 I'm also currently a graduate student in Analytics and Computer Science at Georgia Institute of Technology. I'm a big design, data, and computer nerd 🤓
+
+![youngbloodcyb's github stats](https://github-readme-stats.vercel.app/api?username=youngbloodcyb)
 
