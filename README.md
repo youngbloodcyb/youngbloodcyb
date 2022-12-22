@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 [Check out my portfolio site](https://www.cameronyoungblood.com)
-
 🌱 I’m currently learning Java and Next.js
 
 🔭 I work on a marketing operations team doing web analytics, marketing optimization, and front-end web development
