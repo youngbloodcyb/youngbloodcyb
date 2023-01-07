@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Java and Next.js
+🌱 I’m currently really into React, Next.js, and Java.
+
+🛠️ I just finished building an automated blog with Next.js, React, Strapi Headless CMS, Digital Ocean, Google App Scripts, and ChatGPT OpenAI API
 
 🔭 I work on a marketing operations team doing web analytics, marketing optimization, and front-end web development
 
