@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🌱 I’m currently really into React, Next.js, and Java.
 
 🛠️ Projects I'm working on:
-- An automated blog with Next.js, React, TailwindCSS, Strapi Headless CMS, Digital Ocean, Google App Scripts, and ChatGPT OpenAI API
+- An automated blog with Next.js, React, GraphQL, TailwindCSS, Strapi Headless CMS, Digital Ocean, Google App Scripts, and ChatGPT OpenAI API
 - A cheap flights finder built with React, Next.js, TailwindCSS, and TypeScript
 - A conversion rate optimization dashboard build with SvelteKit, TailwindCSS, Optimizely API, Chart.js, and automated with Google App Scripts
 
