@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - A cheap flights finder built with React, Next.js, TailwindCSS, and TypeScript
 - A conversion rate optimization dashboard build with SvelteKit, TailwindCSS, Optimizely API, Chart.js, and automated with Google App Scripts
 
-🔭 I work on a marketing operations team as an optimization developer and strategist
+🔭 I work as an optimization developer and strategist
 
-📕 Currently a graduate student in Analytics and Computer Science at Georgia Institute of Technology
+📕 Currently a graduate student at Georgia Institute of Technology
 
 🤓 Big design, data, and computer nerd
