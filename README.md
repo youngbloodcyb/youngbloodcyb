@@ -1,5 +1,5 @@
 # 👋 🤠
-
+## Hi, I'm Cameron
 <!--
 **youngbloodcyb/youngbloodcyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently really into React, Next.js, and Java.
+🌱 My main skills are in Java, JavaScript, React, SQL, Ruby on Rails, and Python (depending on the day)
 
-🛠️ Projects I'm working on:
-- An automated blog with Next.js, React, GraphQL, TailwindCSS, Strapi Headless CMS, Digital Ocean, Google App Scripts, and ChatGPT OpenAI API
+🛠️ Thing's I've built recently or that I'm working on:
+- An automated blog with Next.js, React, GraphQL, TailwindCSS, Strapi Headless CMS, Digital Ocean, Google Cloud Platform, and OpenAI GPT
 - A cheap flights finder built with React, Next.js, TailwindCSS, and TypeScript
-- A conversion rate optimization dashboard build with SvelteKit, TailwindCSS, Optimizely API, Chart.js, and automated with Google App Scripts
+- A conversion rate optimization dashboard built with SvelteKit, TailwindCSS, Optimizely API, Chart.js, and automated with Google App Scripts
+- A full-stack marketplace app built with Ruby on Rails, TailwindCSS, and SQLite
 
-🔭 I work as an optimization developer and strategist
+🔭 I work full-time as an optimization developer
 
-📕 Currently a graduate student at Georgia Institute of Technology
-
-🤓 Big design, data, and computer nerd
+📕 I'm a part-time graduate student at Georgia Institute of Technology
