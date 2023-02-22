@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌱 My main skills are in Java, JavaScript, React, SQL, Ruby on Rails, and (some) Python
 
-🛠️ Thing's I've built recently or that I'm working on:
+🛠️ Things I've built recently or that I'm working on:
 - An automated blog with Next.js, React, GraphQL, TailwindCSS, Strapi Headless CMS, Digital Ocean, Google Cloud Platform, and OpenAI GPT
 - A cheap flights finder built with React, Next.js, TailwindCSS, and TypeScript
 - A conversion rate optimization dashboard built with SvelteKit, TailwindCSS, Optimizely API, Chart.js, and automated with Google App Scripts
