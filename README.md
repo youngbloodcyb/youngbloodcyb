@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 My main skills are in Java, JavaScript, React, SQL, Ruby on Rails, and (some) Python
+🌱 My main skills are in Java, JavaScript, React, SQL, Ruby, and (some) Python. My recent obsession is Ruby on Rails
 
 🛠️ Things I've built recently or that I'm working on:
 - An automated blog with Next.js, React, GraphQL, TailwindCSS, Strapi Headless CMS, Digital Ocean, Google Cloud Platform, and OpenAI GPT
