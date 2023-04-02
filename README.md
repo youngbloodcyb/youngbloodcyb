@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - A conversion rate optimization dashboard built with SvelteKit, TailwindCSS, Optimizely API, Chart.js, and automated with Google App Scripts
 - A full-stack marketplace app built with Ruby on Rails, TailwindCSS, and SQLite
 
-🔭 I work full-time as an optimization developer
+🔭 I work as a Full Stack Engineer at Ampry, a marketing technology software company.
 
 📕 I'm a part-time graduate student at Georgia Institute of Technology
