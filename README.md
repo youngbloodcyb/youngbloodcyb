@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 My main skills are in Java, JavaScript, React, SQL, Ruby, and (some) Python. My recent obsession is Ruby on Rails
-
-🛠️ Things I've built recently or that I'm working on:
-- An automated blog with Next.js, React, GraphQL, TailwindCSS, Strapi Headless CMS, Digital Ocean, Google Cloud Platform, and OpenAI GPT
-- A cheap flights finder built with React, Next.js, TailwindCSS, and TypeScript
-- A conversion rate optimization dashboard built with SvelteKit, TailwindCSS, Optimizely API, Chart.js, and automated with Google App Scripts
-- A full-stack marketplace app built with Ruby on Rails, TailwindCSS, and SQLite
+🌱 JavaScript, Python, Java, Ruby, SQL
 
 🔭 I work as a Full Stack Engineer at Ampry, a marketing technology software company.
 
