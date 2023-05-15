@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 🌱 JavaScript, Python, Java, Ruby, SQL
 
-🔭 I work as a Full Stack Engineer at Ampry, a marketing technology software company.
+🔭 Full Stack Engineer at Ampry, a marketing technology software company.
 
-📕 I'm a part-time graduate student at Georgia Institute of Technology
+📕 Graduate student in Computer Science at Georgia Institute of Technology.
