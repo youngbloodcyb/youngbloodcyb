@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 JavaScript, Python, Java, Ruby, SQL
+🌱 NextJS, Laravel, Rails
 
 🔭 Full Stack Engineer at Ampry, a marketing technology software company.
 
