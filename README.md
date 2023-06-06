@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 🔭 Full Stack Engineer at Ampry, a marketing technology software company.
 
-📕 Graduate student in Computer Science at Georgia Institute of Technology.
+📕 Georgia Institute of Technology Comp Sci
