@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 🌱 NextJS, Laravel, Rails
 
-🔭 Full Stack Engineer at Ampry, a marketing technology software company.
+💬 Currently living in the world of MarTech and all this crazy AI stuff
 
-📕 Georgia Institute of Technology Comp Sci
+🔭 Full Stack Engineer at [Ampry](https://ampry.com), a marketing technology software company
+
+🤝 Partner and engineer at [9d8.dev](https://9d8.dev)
+
+🧪 Engineer at [Alpine Codex](https://www.alpinecodex.com/)
+
+📕 Georgia Institute of Technology Computer Science
