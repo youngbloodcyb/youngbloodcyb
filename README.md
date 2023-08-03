@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 💬 Currently living in the world of MarTech and all this crazy AI stuff
 
-🔭 Full Stack Engineer at [Ampry](https://ampry.com), a marketing technology software company
+🔭 Full Stack Engineer at [Ampry](https://ampry.com), a software company for performance marketing
 
 🤝 Partner and engineer at [9d8.dev](https://9d8.dev)
 
