@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 NextJS, Laravel, Rails
+🌱 NextJS, Laravel
 
 💬 Currently living in the world of MarTech and all this crazy AI stuff
 
