@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 🌱 NextJS, Laravel
 
 💬 Currently living in the world of MarTech and all this crazy AI stuff
 
-🔭 Full Stack Engineer at [Ampry](https://ampry.com), a software company for performance marketing
+🔭 Full Stack Developer at [Ampry](https://ampry.com), a software company for performance marketing
 
 🤝 Partner and engineer at [9d8.dev](https://9d8.dev)
 
 🧪 Engineer at [Alpine Codex](https://www.alpinecodex.com/)
 
 📕 Georgia Institute of Technology Computer Science
+-->
