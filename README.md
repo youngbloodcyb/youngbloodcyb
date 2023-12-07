@@ -1,5 +1,7 @@
 # 👋 🤠
-## Hi, I'm Cameron
+## Hi, I'm Cameron.
+
+Full-stack developer.
 <!--
 **youngbloodcyb/youngbloodcyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
