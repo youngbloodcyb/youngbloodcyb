@@ -3,7 +3,7 @@
 
 Full-stack developer.
 
-[cameronyoungblood.com](https://cameronyoungblood.com)
+[cameron.s0](https://cameron.so)
 <!--
 **youngbloodcyb/youngbloodcyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
