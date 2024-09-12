@@ -1,33 +1,26 @@
-# 👋 🤠
+# 👋 🤠 🌊
+
 ## Hi, I'm Cameron.
 
-Full-stack developer.
+I'm a full stack software engineer in San Diego, California. 
+Master of Science in Comp Sci from Georgia Institute of Technology.
+Bachelor of Arts from Brigham Young University.
+Building AI integrated marketing products at [Alpine Codex](https://alpine.dev).
+Building performance marketing software systems at [Ampry](https://ampry.com).
+Building for the internet at [9d8](https://9d8.dev).
+Making videos at [Skill Issue Studio](https://skillissue.studio).
+Running [atka.co](https://atka.co).
 
-[cameron.so](https://cameron.so)
-<!--
-**youngbloodcyb/youngbloodcyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔗 Visit my site — [cameron.so](https://cameron.so)
+- 🔗 Follow me on Twitter [youngbloodcyb](https://x.com/youngbloodcyb)
+- 🔗 Watch my [YouTube Channel](https://youtube.com/@skillissuestudio)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/cameron-youngblood/)
 
-Here are some ideas to get you started:
+## Featured Open Source Projects
+- [9d8dev/next-wp](https://github.com/9d8dev/next-wp) :: Headless Wordpress with Next JS
+- [routerso/router](https://github.com/routerso/router) :: Form Backend for marketing minded devs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-🌱 NextJS, Laravel
-
-💬 Currently living in the world of MarTech and all this crazy AI stuff
-
-🔭 Full Stack Developer at [Ampry](https://ampry.com), a software company for performance marketing
-
-🤝 Partner and engineer at [9d8.dev](https://9d8.dev)
-
-🧪 Engineer at [Alpine Codex](https://www.alpinecodex.com/)
-
-📕 Georgia Institute of Technology Computer Science
--->
+## Featured Products
+- [WaveFinder](https://wavefinder.io) :: Performance marketing driven by AI
+- [router.so](https://github.com/routerso/router) :: Form Backend for marketing minded devs
+- [OUTR.io](https://outr.io) :: Deployable AI sales team
