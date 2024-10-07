@@ -2,6 +2,10 @@
 
 ## Hi, I'm Cameron.
 
+> "Create the things you wish existed"
+>
+> Kobi Yamada
+
 I'm a full stack software engineer in San Diego, California. 
 Master of Science in Comp Sci from Georgia Institute of Technology.
 Bachelor of Arts from Brigham Young University.
