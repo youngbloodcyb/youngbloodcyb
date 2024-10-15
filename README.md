@@ -28,5 +28,3 @@ Running [atka.co](https://atka.co).
 - [WaveFinder](https://wavefinder.io) :: Performance marketing driven by AI
 - [router.so](https://github.com/routerso/router) :: Form Backend for marketing minded devs
 - [OUTR.ai](https://outr.io) :: Deployable AI sales team
-
-located in California
