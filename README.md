@@ -1,3 +1,3 @@
-building & learning
+building
 
 located in california, usa
