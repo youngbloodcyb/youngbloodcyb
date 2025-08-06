@@ -1,3 +1,3 @@
-building & selling @ vercel
+engineering for gtm org @ vercel
 
 located in california, usa
